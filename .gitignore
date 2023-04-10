@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
 .idea/
-.iml/
+Testability2.iml/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
